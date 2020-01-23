@@ -1,0 +1,35 @@
+Lecture 1
+
+Information Retrieval is the correct term
+- it is the field concerned with the structure, analysis, organization, storage, searching, and retrieval of information
+
+History
+- the idea of using computers to search for information dates back to as early as 1945
+- Long history of search engines in digital libraries, creating the academic field of information retrieval
+- early web search engines
+    - JumpStation (1993)
+        - first www resource-discovery tool to combiine the three essential features of the modern web search engine
+    - Lycos (1994)
+    - AltaVista (1995)
+    - Yahoo (1995)
+- in 1996, grad students at Stanford, Larry Page and Sergey Brin began workign on a crawler. They incorprated as Google Inc. in 1998. By 2000 they had added 1 billion urls 
+
+    Prior to Web Search
+    - before search engines, there was no capacity to search teh entire WWW, we used directories 
+    - yahoo started as a directory
+
+Core Issues
+- everything was on text and documents in the 50s
+- example documents
+    - web pages, email, books, news, scholarly papers, text messages, Word, PowerPoint, PDF, forum postings, patents. IM sessions, etc.
+- Common Properties
+    - significant text ontent
+    - some structure
+- DataBases
+    - Database Records (tuples) are typically made up of well-defined fields (or attributes)
+        - bank records with account numbers, balances, names, addresses, social security numbers...
+    - you had to be specific when searching
+- comparing text
+    - comparing the query text to the document text and determining what is a good match is the core issue of information retrieval
+    - exact matching of word is not enough
+    - ideally you get what you want, even if the query is bad
